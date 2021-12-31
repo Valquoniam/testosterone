@@ -1,6 +1,14 @@
+@media (max-width:1900px){
+  .u-section-1{
+    background-position: 82% 50%;
+  }
+}
+
+
+
+
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/857475.jpg");
-  background-position: 52.51% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -136,13 +144,6 @@
   width: 253px;
   height: 253px;
   margin: -881px auto 60px;
-}
-
-@media (max-width:1800px) {
-    .u-section-1 {
-      background-position: 81% 50%;
-    }
-
 }
 
 @media (max-width: 1199px) {
