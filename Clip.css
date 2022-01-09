@@ -80,10 +80,17 @@
   }
 
   .u-section-1 .u-video-1 {
-    height: 187px;
+    height: 182px;
     width: 332px;
     margin-top: 75px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 178%;
+    height: 178%;
+    left: -39%;
+    top: -39%;
   }
 }

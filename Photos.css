@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-color: #fffff0;
+  background-image: none;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -7,7 +7,6 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 3rem;
   margin: 50px auto 0;
 }
 
@@ -378,6 +377,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    font-size: 3rem;
     width: auto;
   }
 
